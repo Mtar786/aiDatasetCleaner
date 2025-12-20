@@ -1,6 +1,7 @@
 # AI Dataset Cleaner
 
 
+
 This project implements an **AI‑assisted dataset cleaning tool**.  It takes
 messy JSON or CSV files and automatically detects schema mismatches,
 missing values, duplicates, type inconsistencies and category
